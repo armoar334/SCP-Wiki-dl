@@ -3,3 +3,4 @@ Bash scripts to dl and format scp wiki pages (doesn't fully format i.e if theres
 SCPWIKIDOWNLOADRNAGE.sh [FIRST] [LAST]
 SCPWIKIDOWNLOADONE [NUMBER]
 SCPWIKIDOWNLOADALL [No arguments]
+Made for an SCP TUI ill make eventually
